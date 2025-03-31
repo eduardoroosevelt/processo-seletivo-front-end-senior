@@ -11,8 +11,7 @@ const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
   title: "Sistema de Pessoas Desaparecidas - PJC MT",
-  description: "Sistema de consulta de pessoas desaparecidas da Polícia Judiciária Civil de Mato Grosso",
-    generator: 'v0.dev'
+  description: "Sistema de consulta de pessoas desaparecidas da Polícia Judiciária Civil de Mato Grosso"
 }
 
 export default function RootLayout({
